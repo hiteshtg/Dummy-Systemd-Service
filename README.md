@@ -3,6 +3,10 @@
 
 A minimal example of a custom **systemd** service that runs a Bash script in the background, writing periodic status messages to a log file—perfect for mastering service creation, management, and monitoring.
 
+> A simple systemd service example project  
+> 📌 Part of the [roadmap.sh Dummy Systemd Service project](https://roadmap.sh/projects/dummy-systemd-service)
+
+
 ---
 
 ## 🧰 Project Structure
