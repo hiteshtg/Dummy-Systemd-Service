@@ -1,0 +1,8 @@
+[Unit]
+Description=Dummy system Service
+
+[Service]
+Type=simple
+ExecStart=/home/hitesh/learn/linux/beginner-project/Dummy_Systemd_Service/dummy.service
+Restart=on-failure
+
